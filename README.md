@@ -15,6 +15,7 @@
 </p>
 <br>
 <hr>
-⭐️ Github Stats
+<br>
+<p><samp>My Github Stats</b>.</samp></p>
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=agdal&theme=react&show_icons=true)
