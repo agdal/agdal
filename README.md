@@ -2,7 +2,7 @@
 <p><samp>I'm a student with interest in <b>Computer Science</b> and <b>Business</b>. I live in Copenhagen, <b>Denmark</b>.</samp></p>
 <h2>My Socials</h2>
 <p>
-    <a href="https://in.linkedin.com/in/oliveragdal">
+    <a href="https://www.linkedin.com/in/oliver-agdal-0bb8011b0/">
     <img align="left" alt="Oliver Agdal | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/oliveragdal/">
