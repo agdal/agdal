@@ -1,9 +1,7 @@
 <p><samp>Hi there! I'm <b>Oliver</b>.</samp></p>
 <p><samp>I'm a student with interest in <b>Computer Science</b> and <b>Business</b>. I live in Copenhagen, <b>Denmark</b>.</samp></p>
-<hr>
 <h2>My Socials</h2>
 <p>
-  
   <a href="https://www.linkedin.com/in/oliver-agdal-0bb8011b0/">
     <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
   </a>
