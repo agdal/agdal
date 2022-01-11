@@ -12,7 +12,7 @@
     <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
   </a>
 </p>
-
+<hr>
 ⭐️ Github Stats
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=agdal&theme=gruvbox&show_icons=true)
