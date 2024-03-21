@@ -1,6 +1,5 @@
 <p><samp>Hi there! I'm <b>Oliver</b>.</samp></p>
 <p><samp>I'm a 20 year old guy, with interest in <b>Computer Science</b> and <b>Business</b>. I live in Copenhagen, <b>Denmark</b>.</samp></p>
-<p>I'm currently working for The Danish Royal Life Guard 💂🏼‍♀️</p>
 <h2>My Socials</h2>
 <p>
     <a href="https://www.linkedin.com/in/oliver-agdal-0bb8011b0/">
