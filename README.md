@@ -5,8 +5,6 @@
 <p>If you want to join the project, please reach out to me on one of these mails:</p>
 <p>oliveragdal@secureid.dk</p>
 <p>contact@secureid.dk</p>
-<br>
-<br>
 <h2>My Socials</h2>
 <p>
     <a href="https://www.linkedin.com/in/oliver-agdal-0bb8011b0/">
